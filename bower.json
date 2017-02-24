@@ -1,0 +1,22 @@
+{
+  "name": "md-iconfont",
+  "authors": [
+    "nvhung <nvhung_2@spsvietnam.vn>"
+  ],
+  "description": "Angular Material Design - Iconfont",
+  "main": "",
+  "keywords": [
+    "angular",
+    "material",
+    "iconfont"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "spsvietnam.vn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

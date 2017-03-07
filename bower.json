@@ -1,17 +1,17 @@
 {
   "name": "md-iconfont",
   "authors": [
-    "nvhung <nvhung_2@spsvietnam.vn>"
+    "Hunt Nguyen <hunguyenv@gmail.com>"
   ],
   "description": "Angular Material Design - Iconfont",
-  "main": "./material-icons.css",
+  "main": "css/material-icons.css",
   "keywords": [
     "angular",
     "material",
     "iconfont"
   ],
   "license": "Apache-2.0",
-  "homepage": "spsvietnam.vn",
+  "homepage": "hunguyen.net",
   "ignore": [
     "**/.*",
     "node_modules",
